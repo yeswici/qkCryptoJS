@@ -8,7 +8,7 @@ A Quantum Key Distribution system, based on BB84, using emulated photons and cha
 4. Key Reconciliation :white_medium_small_square:
 5. Sending & Receiving Of Decision :white_check_mark:
 
-# Build Steps
+# Build Steps {p24}
 * Install [nodejs](http://nodejs.org/).
 * Command ```git clone https://github.com/yeswici/qkCryptoJS.git```
 * Open terminal and navigate to source code directory
