@@ -10,7 +10,7 @@ A Quantum Key Distribution system, based on BB84, using emulated photons and cha
 
 # Build Steps
 * Install [nodejs](http://nodejs.org/).
-* git clone https://github.com/yeswici/qkCryptoJS.git
+* Command ```git clone https://github.com/yeswici/qkCryptoJS.git```
 * Open terminal and navigate to source code directory
 * Command ```npm install```
 * Command ```gulp test```
